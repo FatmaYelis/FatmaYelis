@@ -26,13 +26,13 @@
 ### GitHub Stats 📊
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatmayelis&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FatmaYelis&show_icons=true&locale=en" alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fatmayelis&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FatmaYelis&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatmayelis" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FatmaYelis" alt="GitHub Streak" />
 </p>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=fatmayelis&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
+  <img src="https://komarev.com/ghpvc/?username=FatmaYelis&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
 </p>
