@@ -1,7 +1,7 @@
   [![MasterHead](https://www.spec-india.com/wp-content/uploads/2020/06/Full_Stack.png)
 
 <h1 align="center">Hi 👋, I'm Fatıma Hatice Yelis</h1>
-<h3 align="center">A passionate Frontend Developer from Türkiye</h3>
+<h3 align="center">A passionate Full-Stack Developer from Türkiye</h3>
 
 - 🔭 I’m currently working on **TR-Docuquery**
 - 🌱 I’m currently learning **NLP**
